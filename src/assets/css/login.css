@@ -1,0 +1,62 @@
+#myNavBar,
+#footer {
+  background-color: #03750e;
+}
+
+/*Nav Bar CSS*/
+header img {
+  height: 30px;
+}
+
+.banner-img {
+  width: 100%;
+  height: auto;
+}
+
+/*Log In Section*/
+#employeeLogIn {
+  border: 2px solid black;
+}
+
+.login-container {
+  border: 2px solid red;
+  margin-top: 8.438rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-around;
+}
+.form-size {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid orange;
+  min-width: 500px;
+  max-width: 800px;
+}
+
+.login-banner-img {
+  border: 2px solid pink;
+}
+
+/*Log in Help*/
+.login-help-container {
+  margin-top: 8.438rem;
+  margin-bottom: 8.438rem;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.help-banner {
+  border: 2px solid red;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  min-width: 950px;
+}
+.help-banner-img {
+  border: 2px solid purple;
+  height: 200px;
+}
